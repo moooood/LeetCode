@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="39-Combination-Sum" />
+        <module name="77-Combinations" />
+        <module name="93-Restore-IP-Addresses" />
+        <module name="216-Combination-Sum-III" />
+        <module name="17-Letter-Combinations-Of-a-Phone-Number" />
+        <module name="40-Combination-Sum-II" />
+        <module name="131-Palindrome-Partitioning" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

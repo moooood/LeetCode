@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/215-Kth-Largest-Element-in-An-Array/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/215-Kth-Largest-Element-in-An-Array/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/347-Top-K-Frequent-Elements/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/347-Top-K-Frequent-Elements/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/451-Sort-Characters-by-Frequency/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/451-Sort-Characters-by-Frequency/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/75-Sort-Colors/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/75-Sort-Colors/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BubbleSort/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BubbleSort/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InsertionSort/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InsertionSort/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MergeSort/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MergeSort/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/QuickSort/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/QuickSort/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SelectionSort/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SelectionSort/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

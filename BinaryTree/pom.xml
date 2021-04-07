@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>BinaryTree</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>144-Binary-Tree-Preorder-Traversal</module>
+        <module>145-Binary-Tree-Postorder-Traversal</module>
+        <module>94-Binary-Tree-Inorder-Traversal</module>
+        <module>124-Binary-Tree-Maximum-Path-Sum</module>
+        <module>102-Binary-Tree-Level-Order-Traversal</module>
+        <module>199-Binary-Tree-Right-Side-View</module>
+        <module>637-Average-of-Levels-in-Binary-Tree</module>
+        <module>429-N-Ary-Tree-Level-Order-Traversal</module>
+        <module>226-Invert-Binary-Tree</module>
+        <module>104-Maximum-Depth-of-Binary-Tree</module>
+        <module>101-Symmetric-Tree</module>
+        <module>559-Maximum-Depth-of-N-Ary-Tree</module>
+        <module>111-Minimum-Depth-of-Binary-Tree</module>
+        <module>222-Count-Complete-Tree-Nodes</module>
+        <module>110-Balanced-Binary-Tree</module>
+        <module>257-Binary-Tree-Paths</module>
+        <module>100-Same-Tree</module>
+        <module>572-Subtree-of-Another-Tree</module>
+        <module>404-Sum-of-Left-Leaves</module>
+        <module>513-Find-Bottom-Left-Tree-Value</module>
+        <module>112-Path-Sum</module>
+        <module>106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal</module>
+        <module>105-Construct-Binary-Tree-From-Preorder-and-Inorder-Traversal</module>
+        <module>654-Maximum-Binary-Tree</module>
+        <module>617-Merge-Two-Binary-Trees</module>
+        <module>700-Search-in-A-Binary-Search-Tree</module>
+        <module>98-Validate-Binary-Search-Tree</module>
+        <module>530-Minimum-Absolute-Difference-in-BST</module>
+        <module>501-Find-Mode-in-Binary-Search-Tree</module>
+        <module>236-Lowest-Common-Ancestor-of-A-Binary-Tree</module>
+        <module>235-Lowest-Common-Ancestor-of-A-Binary-Search-Tree</module>
+        <module>701-Insert-Into-A-Binary-Search-Tree</module>
+        <module>450-Delete-Node-in-A-BST</module>
+        <module>669-Trim-A-Binary-Search-Tree</module>
+        <module>108-Convert-Sorted-Array-to-Binary-Search-Tree</module>
+        <module>538-Convert-BST-to-Greater-Tree</module>
+    </modules>
+
+
+</project>

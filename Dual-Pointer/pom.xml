@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>Dual-Pointer</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>167-Two-Sum-2</module>
+        <module>88-Merge-Sorted-Array</module>
+        <module>142-Linked-List-Cycle-2</module>
+        <module>76-Minimum-Window-Substring</module>
+        <module>633-Sum-of-Square-Numbers</module>
+        <module>680-Valid-Palindrome-2</module>
+        <module>524-Longest-Word-in-Dictionary-through-Deleting</module>
+        <module>27-Remove-Element</module>
+        <module>344-Reverse-String</module>
+        <module>jianzhi05-tihuankongge</module>
+        <module>151-Reverse-Words-in-a-String</module>
+        <module>206-Reverse-Linked_list</module>
+        <module>206-Reverse-Linked-List</module>
+        <module>15-3Sum</module>
+        <module>18-4Sum</module>
+    </modules>
+
+
+</project>

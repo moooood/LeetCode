@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="151-Reverse-Words-in-A-String" />
+        <module name="jianzhi05-tihuankongge" />
+        <module name="541-Reverse-String2" />
+        <module name="jianzhi58-zuoxuanzhuanzifuchuan" />
+        <module name="344-Reverse-String" />
+        <module name="459-Repeat-Substring-Pattern" />
+        <module name="KMP" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

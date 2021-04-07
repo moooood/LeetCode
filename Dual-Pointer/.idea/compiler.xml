@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="633-Sum-of-Square-Numbers" />
+        <module name="142-Linked-List-Cycle-2" />
+        <module name="524-Longest-Word-in-Dictionary-through-Deleting" />
+        <module name="jianzhi05-tihuankongge" />
+        <module name="88-Merge-Sorted-Array" />
+        <module name="680-Valid-Palindrome-2" />
+        <module name="167-Two-Sum-2" />
+        <module name="151-Reverse-Words-in-a-String" />
+        <module name="206-Reverse-Linked-List" />
+        <module name="344-Reverse-String" />
+        <module name="18-4Sum" />
+        <module name="27-Remove-Element" />
+        <module name="15-3Sum" />
+        <module name="76-Minimum-Window-Substring" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="206-Reverse-Linked_list" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

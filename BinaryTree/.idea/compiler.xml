@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="257-Binary-Tree-Paths" />
+        <module name="106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal" />
+        <module name="654-Maximum-Binary-Tree" />
+        <module name="199-Binary-Tree-Right-Side-View" />
+        <module name="572-Subtree-of-Another-Tree" />
+        <module name="450-Delete-Node-in-A-BST" />
+        <module name="144-Binary-Tree-Preorder-Traversal" />
+        <module name="226-Invert-Binary-Tree" />
+        <module name="700-Search-in-A-Binary-Search-Tree" />
+        <module name="94-Binary-Tree-Inorder-Traversal" />
+        <module name="236-Lowest-Common-Ancestor-of-A-Binary-Tree" />
+        <module name="222-Count-Complete-Tree-Nodes" />
+        <module name="108-Convert-Sorted-Array-to-Binary-Search-Tree" />
+        <module name="530-Minimum-Absolute-Difference-in-BST" />
+        <module name="124-Binary-Tree-Maximum-Path-Sum" />
+        <module name="701-Insert-Into-A-Binary-Search-Tree" />
+        <module name="429-N-Ary-Tree-Level-Order-Traversal" />
+        <module name="111-Minimum-Depth-of-Binary-Tree" />
+        <module name="637-Average-of-Levels-in-Binary-Tree" />
+        <module name="98-Validate-Binary-Search-Tree" />
+        <module name="235-Lowest-Common-Ancestor-of-A-Binary-Search-Tree" />
+        <module name="617-Merge-Two-Binary-Trees" />
+        <module name="559-Maximum-Depth-of-N-Ary-Tree" />
+        <module name="105-Construct-Binary-Tree-From-Preorder-and-Inorder-Traversal" />
+        <module name="538-Convert-BST-to-Greater-Tree" />
+        <module name="104-Maximum-Depth-of-Binary-Tree" />
+        <module name="101-Symmetric-Tree" />
+        <module name="501-Find-Mode-in-Binary-Search-Tree" />
+        <module name="513-Find-Bottom-Left-Tree-Value" />
+        <module name="404-Sum-of-Left-Leaves" />
+        <module name="669-Trim-A-Binary-Search-Tree" />
+        <module name="145-Binary-Tree-Postorder-Traversal" />
+        <module name="110-Balanced-Binary-Tree" />
+        <module name="102-Binary-Tree-Level-Order-Traversal" />
+        <module name="100-Same-Tree" />
+        <module name="112-Path-Sum" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

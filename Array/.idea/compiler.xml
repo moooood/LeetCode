@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="209-Minimum-Size-Subarray-Sum" />
+        <module name="27-Remove-Element" />
+        <module name="59-Spiral-Matrix2" />
+        <module name="15-3Sum" />
+        <module name="142-Linked-List-Cycle2" />
+        <module name="454-4Sum2" />
+        <module name="35-Search-Insert-Position" />
+        <module name="206-Reverse-Linked-List" />
+        <module name="18-4Sum" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

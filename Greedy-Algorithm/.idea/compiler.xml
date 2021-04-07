@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="455-Assign-Cookies" />
+        <module name="435-Non-Overlapping-Intervals" />
+        <module name="406-Queue-Reconstruction-by-Height" />
+        <module name="665-Non-Decreasing-Array" />
+        <module name="122-Best-Time-to-Buy-and-Sell-Stock-2" />
+        <module name="135-Candy" />
+        <module name="605-Can-Place-Flowers" />
+        <module name="452-Minimum-Number-of-Arrows-to-Burst-Balloons" />
+        <module name="763-Partition-Labels" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

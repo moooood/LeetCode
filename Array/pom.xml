@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>Array</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>35-Search-Insert-Position</module>
+        <module>27-Remove-Element</module>
+        <module>15-3Sum</module>
+        <module>18-4Sum</module>
+        <module>454-4Sum2</module>
+        <module>206-Reverse-Linked-List</module>
+        <module>142-Linked-List-Cycle2</module>
+        <module>209-Minimum-Size-Subarray-Sum</module>
+        <module>59-Spiral-Matrix2</module>
+    </modules>
+
+
+</project>

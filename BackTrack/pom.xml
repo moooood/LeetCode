@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>BackTrack</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>77-Combinations</module>
+        <module>216-Combination-Sum-III</module>
+        <module>17-Letter-Combinations-Of-a-Phone-Number</module>
+        <module>39-Combination-Sum</module>
+        <module>40-Combination-Sum-II</module>
+        <module>131-Palindrome-Partitioning</module>
+        <module>93-Restore-IP-Addresses</module>
+    </modules>
+
+
+</project>

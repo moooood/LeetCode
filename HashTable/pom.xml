@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>HashTable</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>242-Valid-Anagram</module>
+        <module>349-Intersection-of-Two-Arrays</module>
+        <module>202-Happy-Number</module>
+        <module>1-Two-Sum</module>
+        <module>454-4Sum2</module>
+        <module>383-Ransom-Note</module>
+        <module>15-3Sum</module>
+        <module>18-4Sum</module>
+    </modules>
+
+
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="150-Evaluate-Reverse-Polish-Notation" />
+        <module name="225-Implement-Stack-Using-Queues" />
+        <module name="jianzhi59-1-huadongchuangkouzuidazhi" />
+        <module name="20-Valid-Parentheses" />
+        <module name="1047-Remove-All-Adjacent-Duplicates-in-String" />
+        <module name="232-Implement-Queue-Using-Stacks" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

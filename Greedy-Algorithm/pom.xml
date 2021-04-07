@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>Greedy-Algorithm</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>455-Assign-Cookies</module>
+        <module>135-Candy</module>
+        <module>435-Non-Overlapping-Intervals</module>
+        <module>605-Can-Place-Flowers</module>
+        <module>452-Minimum-Number-of-Arrows-to-Burst-Balloons</module>
+        <module>763-Partition-Labels</module>
+        <module>122-Best-Time-to-Buy-and-Sell-Stock-2</module>
+        <module>406-Queue-Reconstruction-by-Height</module>
+        <module>665-Non-Decreasing-Array</module>
+    </modules>
+
+
+</project>

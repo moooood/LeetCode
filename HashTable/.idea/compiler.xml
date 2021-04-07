@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="202-Happy-Number" />
+        <module name="1-Two-Sum" />
+        <module name="15-3Sum" />
+        <module name="454-4Sum2" />
+        <module name="349-Intersection-of-Two-Arrays" />
+        <module name="242-Valid-Anagram" />
+        <module name="383-Ransom-Note" />
+        <module name="18-4Sum" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
