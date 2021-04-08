@@ -16,21 +16,30 @@ public class Solution {
     public int getDepth(TreeNode node){
         if (null == node) return 0;
 
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.offer(node);
+        int leftDepth = getDepth(node.left);
+        int rightDepth = getDepth(node.right);
 
-        int maxDepth = 0;
-        while (!queue.isEmpty()){
-            int size = queue.size();
-            maxDepth++;
-
-            for (int i = 0; i < size; i++){
-                TreeNode front = queue.poll();
-
-                if (null != front.left) queue.offer(front.left);
-                if (null != front.right) queue.offer(front.right);
-            }
-        }
-        return maxDepth;
+        return 1 + Math.max(leftDepth, rightDepth);
     }
+
+//    public int getDepth(TreeNode node){
+//        if (null == node) return 0;
+//
+//        Queue<TreeNode> queue = new LinkedList<>();
+//        queue.offer(node);
+//
+//        int maxDepth = 0;
+//        while (!queue.isEmpty()){
+//            int size = queue.size();
+//            maxDepth++;
+//
+//            for (int i = 0; i < size; i++){
+//                TreeNode front = queue.poll();
+//
+//                if (null != front.left) queue.offer(front.left);
+//                if (null != front.right) queue.offer(front.right);
+//            }
+//        }
+//        return maxDepth;
+//    }
 }

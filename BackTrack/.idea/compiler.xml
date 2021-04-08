@@ -6,13 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="39-Combination-Sum" />
+        <module name="332-Reconstruct-Itinerary" />
+        <module name="90-Subsets-II" />
+        <module name="491-Increasing-Subsequences" />
         <module name="77-Combinations" />
-        <module name="93-Restore-IP-Addresses" />
         <module name="216-Combination-Sum-III" />
-        <module name="17-Letter-Combinations-Of-a-Phone-Number" />
-        <module name="40-Combination-Sum-II" />
+        <module name="47-Permutations-II" />
         <module name="131-Palindrome-Partitioning" />
+        <module name="39-Combination-Sum" />
+        <module name="93-Restore-IP-Addresses" />
+        <module name="17-Letter-Combinations-Of-a-Phone-Number" />
+        <module name="46-Permutations" />
+        <module name="40-Combination-Sum-II" />
+        <module name="78-Subsets" />
       </profile>
     </annotationProcessing>
   </component>

@@ -16,6 +16,12 @@
         <module>40-Combination-Sum-II</module>
         <module>131-Palindrome-Partitioning</module>
         <module>93-Restore-IP-Addresses</module>
+        <module>78-Subsets</module>
+        <module>90-Subsets-II</module>
+        <module>491-Increasing-Subsequences</module>
+        <module>46-Permutations</module>
+        <module>47-Permutations-II</module>
+        <module>332-Reconstruct-Itinerary</module>
     </modules>
 
 
