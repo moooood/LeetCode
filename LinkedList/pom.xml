@@ -12,7 +12,8 @@
         <module>203-Remove-Linked-List-Element</module>
         <module>707-Design-Linked-List</module>
         <module>206-Reverse-Linked-List</module>
-        <module>Remove-Duplicates-From-Sorted-List2</module>
+        <module>82-Remove-Duplicates-From-Sorted-List2</module>
+        <module>21-Merge-Two-Sorted-Lists</module>
     </modules>
 
 

@@ -5,23 +5,38 @@ import java.util.Arrays;
  * Created at: 2021/2/4
  **/
 public class Solution {
-    public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int[] nums1Copy = new int[m];
-        System.arraycopy(nums1, 0, nums1Copy, 0, m);
+//    public void merge(int[] nums1, int m, int[] nums2, int n) {
+//        int[] nums1Copy = new int[m];
+//        System.arraycopy(nums1, 0, nums1Copy, 0, m);
+//
+//        int p1 = 0;
+//        int p2 = 0;
+//
+//        int p = 0;
+//
+//        while ((p1 < m) && (p2 < n))
+//            nums1[p++] = (nums1Copy[p1] < nums2[p2]) ? nums1Copy[p1++] : nums2[p2++];
+//
+//        if (p1 < m)
+//            System.arraycopy(nums1Copy, p1, nums1, p1+p2, m+n-p1-p2);
+//        if (p2 < n)
+//            System.arraycopy(nums2, p2, nums1, p1+p2, m+n-p1-p2);
+//    }
 
-        int p1 = 0;
-        int p2 = 0;
-
-        int p = 0;
-
-        while ((p1 < m) && (p2 < n))
-            nums1[p++] = (nums1Copy[p1] < nums2[p2]) ? nums1Copy[p1++] : nums2[p2++];
-
-        if (p1 < m)
-            System.arraycopy(nums1Copy, p1, nums1, p1+p2, m+n-p1-p2);
-        if (p2 < n)
-            System.arraycopy(nums2, p2, nums1, p1+p2, m+n-p1-p2);
+    public void merge(int[] nums1, int m, int[] nums2, int n){
+        int i = m - 1, j = n - 1, k = m + n - 1;
+        while (i>=0 && j >=0){
+            if (nums1[i] > nums2[j]){
+                nums1[k--] = nums1[i--];
+            }else{
+                nums1[k--] = nums2[j--];
+            }
+        }
+        while (j >= 0){
+            nums1[k--] = nums2[j--];
+        }
     }
+
 
     public static void main(String[] args){
         int[] nums1 = {1,2,3,0,0,0};

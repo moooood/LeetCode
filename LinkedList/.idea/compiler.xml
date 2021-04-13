@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Remove-Duplicates-From-Sorted-List2" />
         <module name="707-Design-Linked-List" />
         <module name="206-Reverse-Linked-List" />
+        <module name="21-Merge-Two-Sorted-Lists" />
         <module name="203-Remove-Linked-List-Element" />
       </profile>
     </annotationProcessing>

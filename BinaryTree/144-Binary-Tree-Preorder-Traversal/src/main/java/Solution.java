@@ -15,7 +15,6 @@ public class Solution {
 //    }
 
     public List<Integer> preorderTraversal(TreeNode root) {
-
         List<Integer> ans = new LinkedList<>();
         Deque<TreeNode> st = new LinkedList<>();
         st.push(root);
